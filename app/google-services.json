@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228072778953",
+    "firebase_url": "https://kelaskuu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kelaskuu",
+    "storage_bucket": "kelaskuu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228072778953:android:040bc4443221e6d627f118",
+        "android_client_info": {
+          "package_name": "com.yohanmix.kelaskuu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228072778953-nc6aqlcqg09gtptqmi48dmlt42ml9fk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yohanmix.kelaskuu",
+            "certificate_hash": "057394c61397ab145ffc9a0ef25527c83111ec84"
+          }
+        },
+        {
+          "client_id": "228072778953-01jtv4ah6tfag3f3pqj7stigc4br55mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiBkjXIViHEQtgMqa4uiOIHfizF978MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228072778953-01jtv4ah6tfag3f3pqj7stigc4br55mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
